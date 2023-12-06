@@ -1,0 +1,192 @@
+{
+    "translation-revision-date": "YEAR-MO-DA HO:MI+ZONE",
+    "generator": "WP-CLI\/2.7.1",
+    "source": "assets\/blocks\/details\/Inspector.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "en",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "Difficulty": [
+                ""
+            ],
+            "Best Season": [
+                ""
+            ],
+            "Servings": [
+                ""
+            ],
+            "Calories": [
+                ""
+            ],
+            "Beginner": [
+                ""
+            ],
+            "Intermediate": [
+                ""
+            ],
+            "Advanced": [
+                ""
+            ],
+            "Fall": [
+                ""
+            ],
+            "Winter": [
+                ""
+            ],
+            "Summer": [
+                ""
+            ],
+            "Spring": [
+                ""
+            ],
+            "Prep Time": [
+                ""
+            ],
+            "Total Time": [
+                ""
+            ],
+            "Cooking Time": [
+                ""
+            ],
+            "Italian": [
+                ""
+            ],
+            "Appetizer & Snacks": [
+                ""
+            ],
+            "Breakfast & Brunch": [
+                ""
+            ],
+            "Dessert": [
+                ""
+            ],
+            "Drinks": [
+                ""
+            ],
+            "Main Course": [
+                ""
+            ],
+            "Salad": [
+                ""
+            ],
+            "Soup": [
+                ""
+            ],
+            "American": [
+                ""
+            ],
+            "Chinese": [
+                ""
+            ],
+            "French": [
+                ""
+            ],
+            "Indian": [
+                ""
+            ],
+            "Japanese": [
+                ""
+            ],
+            "Mediterranean": [
+                ""
+            ],
+            "Mexican": [
+                ""
+            ],
+            "Southern": [
+                ""
+            ],
+            "Thai": [
+                ""
+            ],
+            "Other world cuisine": [
+                ""
+            ],
+            "Details Settings": [
+                ""
+            ],
+            "Display Difficulty": [
+                ""
+            ],
+            "Difficulty Label": [
+                ""
+            ],
+            "Display Preparation Time": [
+                ""
+            ],
+            "Prep Time Label": [
+                ""
+            ],
+            "Prep Time Value": [
+                ""
+            ],
+            "Display Cooking Time": [
+                ""
+            ],
+            "Cook Time Label": [
+                ""
+            ],
+            "Cook Time Value": [
+                ""
+            ],
+            "Display Resting Time": [
+                ""
+            ],
+            "Rest Time Label": [
+                ""
+            ],
+            "Resting Time": [
+                ""
+            ],
+            "Rest Time Value": [
+                ""
+            ],
+            "Display Total Time": [
+                ""
+            ],
+            "Total Time Label": [
+                ""
+            ],
+            "Total Time Value": [
+                ""
+            ],
+            "Calculate Total Time": [
+                ""
+            ],
+            "Default value: prepTime + cookTime + restTime": [
+                ""
+            ],
+            "Display Servings": [
+                ""
+            ],
+            "Servings Label": [
+                ""
+            ],
+            "Servings Value": [
+                ""
+            ],
+            "Servings Unit": [
+                ""
+            ],
+            "Display Calories": [
+                ""
+            ],
+            "Calories Label": [
+                ""
+            ],
+            "Calories Value": [
+                ""
+            ],
+            "Display Best Season": [
+                ""
+            ],
+            "Best Season Label": [
+                ""
+            ]
+        }
+    }
+}

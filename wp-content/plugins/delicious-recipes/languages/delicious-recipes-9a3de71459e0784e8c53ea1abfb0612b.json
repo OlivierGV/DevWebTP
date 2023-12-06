@@ -1,0 +1,1059 @@
+{
+    "translation-revision-date": "YEAR-MO-DA HO:MI+ZONE",
+    "generator": "WP-CLI\/2.7.1",
+    "source": "assets\/build\/global.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "en",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "Author": [
+                ""
+            ],
+            "Edit": [
+                ""
+            ],
+            "Add Image": [
+                ""
+            ],
+            "Difficulty": [
+                ""
+            ],
+            "Best Season": [
+                ""
+            ],
+            "Servings": [
+                ""
+            ],
+            "Calories": [
+                ""
+            ],
+            "Nutrition Facts": [
+                ""
+            ],
+            "Percent Daily Values are based on a 2,000 calorie diet. Your daily value may be higher or lower depending on your calorie needs.": [
+                ""
+            ],
+            "Description": [
+                ""
+            ],
+            "Ingredients": [
+                ""
+            ],
+            "Instructions": [
+                ""
+            ],
+            "Video": [
+                ""
+            ],
+            "Print Recipe": [
+                ""
+            ],
+            "Jump to Video": [
+                ""
+            ],
+            "Recipe Keys": [
+                ""
+            ],
+            "Recipe Tags": [
+                ""
+            ],
+            "Recipe Badges": [
+                ""
+            ],
+            "Recipe Dietary": [
+                ""
+            ],
+            "Your {site_title} account has been created!": [
+                ""
+            ],
+            "Password Reset Request for {site_title}": [
+                ""
+            ],
+            "Courses": [
+                ""
+            ],
+            "Upgrade to Pro": [
+                ""
+            ],
+            "Recipe Index": [
+                ""
+            ],
+            "Cooking Method": [
+                ""
+            ],
+            "Cuisine": [
+                ""
+            ],
+            "Prep Time": [
+                ""
+            ],
+            "Cook Time": [
+                ""
+            ],
+            "Rest Time": [
+                ""
+            ],
+            "Total Time": [
+                ""
+            ],
+            "Jump To Recipe": [
+                ""
+            ],
+            "Keywords": [
+                ""
+            ],
+            "File under": [
+                ""
+            ],
+            "Note": [
+                ""
+            ],
+            "Mark as complete": [
+                ""
+            ],
+            "Add to Favorites": [
+                ""
+            ],
+            "Cooking Temp": [
+                ""
+            ],
+            "Estimated Cost": [
+                ""
+            ],
+            "Dietary": [
+                ""
+            ],
+            "Narrow Your Search": [
+                ""
+            ],
+            "Did you make this recipe?": [
+                ""
+            ],
+            "Rate this recipe": [
+                ""
+            ],
+            "Title": [
+                ""
+            ],
+            "Info": [
+                ""
+            ],
+            "Images": [
+                ""
+            ],
+            "Nutrition": [
+                ""
+            ],
+            "Notes": [
+                ""
+            ],
+            "Social Share": [
+                ""
+            ],
+            "Author Bio": [
+                ""
+            ],
+            "Thank You Note": [
+                ""
+            ],
+            "Recipe Content": [
+                ""
+            ],
+            "Read it online:": [
+                ""
+            ],
+            "Season": [
+                ""
+            ],
+            "Recipe Type": [
+                ""
+            ],
+            "Simple Factor": [
+                ""
+            ],
+            "Sorting": [
+                ""
+            ],
+            "Reset": [
+                ""
+            ],
+            "By signing up, you agree to our Terms, Data Policy and Cookies Policy.": [
+                ""
+            ],
+            "gram": [
+                ""
+            ],
+            "grams": [
+                ""
+            ],
+            "Reset Password": [
+                ""
+            ],
+            "Click to initialize RichEditor": [
+                ""
+            ],
+            "Default Layout": [
+                ""
+            ],
+            "Layout One": [
+                ""
+            ],
+            "Layout Two": [
+                ""
+            ],
+            "Appearance": [
+                ""
+            ],
+            "Recipe Colors": [
+                ""
+            ],
+            "These color options controls the look and feel of your recipe card.": [
+                ""
+            ],
+            "Primary Color": [
+                ""
+            ],
+            "Secondary Color": [
+                ""
+            ],
+            "Default Card Layout": [
+                ""
+            ],
+            "Select the default card layout for recipe card.": [
+                ""
+            ],
+            "More Recipe Card Layouts available in Pro version": [
+                ""
+            ],
+            "Author Settings": [
+                ""
+            ],
+            "Author Profile": [
+                ""
+            ],
+            "Only enable this option, if only one author publishes the recipes. Keep this option disabled, if you have multiple authors.": [
+                ""
+            ],
+            "Show Author Archive Header": [
+                ""
+            ],
+            "Enable this option to display header with author information on author archive page. Disable this option if your theme contains headers.": [
+                ""
+            ],
+            "Recipe Author": [
+                ""
+            ],
+            "Select recipe author": [
+                ""
+            ],
+            "Choose recipe author. The author will be used to display author details and author archive.": [
+                ""
+            ],
+            "Author Name": [
+                ""
+            ],
+            "Enter Author Name here..": [
+                ""
+            ],
+            "Subtitle": [
+                ""
+            ],
+            "Enter Subtitle here..": [
+                ""
+            ],
+            "This will be displayed below the author name.": [
+                ""
+            ],
+            "Enter Author Description here..": [
+                ""
+            ],
+            "Social Profile Options": [
+                ""
+            ],
+            "Social Profile Links": [
+                ""
+            ],
+            "Add your social media profile links. Leave it blank if you don't want to display any particular social\tprofile.": [
+                ""
+            ],
+            "Facebook": [
+                ""
+            ],
+            "Enter Facebook URL": [
+                ""
+            ],
+            "Instagram": [
+                ""
+            ],
+            "Enter Instagram URL": [
+                ""
+            ],
+            "Pinterest": [
+                ""
+            ],
+            "Enter Pinterest URL": [
+                ""
+            ],
+            "Twitter": [
+                ""
+            ],
+            "Enter Twitter URL": [
+                ""
+            ],
+            "YouTube": [
+                ""
+            ],
+            "Enter YouTube URL": [
+                ""
+            ],
+            "Snapchat": [
+                ""
+            ],
+            "Enter Snapchat URL": [
+                ""
+            ],
+            "Linkedin": [
+                ""
+            ],
+            "Enter Linkedin URL": [
+                ""
+            ],
+            "Upload Your Photo": [
+                ""
+            ],
+            "Upload your photo to display in the author profile. Leave it blank, if you don't want to display in the profile.": [
+                ""
+            ],
+            "Supports: .JPG, .PNG, .WEBP images": [
+                ""
+            ],
+            "Replace": [
+                ""
+            ],
+            "Delete": [
+                ""
+            ],
+            "New Account": [
+                ""
+            ],
+            "Email Templates": [
+                ""
+            ],
+            "Subject": [
+                ""
+            ],
+            "Enter Subject here..": [
+                ""
+            ],
+            "Message": [
+                ""
+            ],
+            "Enter New Account Created email template here..": [
+                ""
+            ],
+            "Insert Email Placeholders": [
+                ""
+            ],
+            "Enter Reset Password email template here..": [
+                ""
+            ],
+            "Recipe Page": [
+                ""
+            ],
+            "Display Recipes On Homepage": [
+                ""
+            ],
+            "Enable this option to display the recipes on the homepage.": [
+                ""
+            ],
+            "Recipe Per Page": [
+                ""
+            ],
+            "Enter number of recipes to show per page.": [
+                ""
+            ],
+            "Select the number of recipes to display per page. Set default via the Settings > Reading panel.": [
+                ""
+            ],
+            "Autoload Posts and Inline Related Recipes Posts features are available in Pro version.": [
+                ""
+            ],
+            "Choose Images": [
+                ""
+            ],
+            "Miscellaneous": [
+                ""
+            ],
+            "Custom Icons": [
+                ""
+            ],
+            "Upload your custom icon(s) to choose for the Taxonomy Icons. Recommended format is PNG of size 40x40px.": [
+                ""
+            ],
+            "Max. file size %1$s Supports: PNG, JPEG%2$s": [
+                ""
+            ],
+            "Allow SVG Icons": [
+                ""
+            ],
+            "Please note! Allowing uploads of any files (SVG included) is a potential security risk. We recommend you only enable this feature if you understand the security risks involved.": [
+                ""
+            ],
+            "[Also this setting requires reloading of this page after savings changes.]": [
+                ""
+            ],
+            "Custom Units": [
+                ""
+            ],
+            "Enter the custom quantity units for your ingredients.": [
+                ""
+            ],
+            "Unit": [
+                ""
+            ],
+            "Singular": [
+                ""
+            ],
+            "Singular abbr": [
+                ""
+            ],
+            "Plural": [
+                ""
+            ],
+            "Plural abbr": [
+                ""
+            ],
+            "Add Custom Unit": [
+                ""
+            ],
+            "Disable FontAwesome Icons JS": [
+                ""
+            ],
+            "Enable this option if you are having icon conflicts ( fontawesome icons not shown ) with other plugins. If checked, FontAwesome icons JS SVG replacement will be disabled.": [
+                ""
+            ],
+            "Enable Default Session Handler": [
+                ""
+            ],
+            "Enable this option if you are having conflicts with some legacy features. If enabled, temporary session database entry will be created for every new users that visits the website.": [
+                ""
+            ],
+            "The feature to add emojis reaction for your recipes is available in Pro version.": [
+                ""
+            ],
+            "g": [
+                ""
+            ],
+            "Are you sure to delete the custom unit?": [
+                ""
+            ],
+            "Show Nutrition Facts": [
+                ""
+            ],
+            "This option will enable\/disable the nutrition facts on the recipe post.": [
+                ""
+            ],
+            "Nutrition Facts Text": [
+                ""
+            ],
+            "Enter nutrition facts label": [
+                ""
+            ],
+            "Add the default label for Nutrition Facts.": [
+                ""
+            ],
+            "Nutrition Chart Layout": [
+                ""
+            ],
+            "Select the default nutrition chart layout.": [
+                ""
+            ],
+            "Additional Nutritional Elements": [
+                ""
+            ],
+            "Enter additional nutritional elements.": [
+                ""
+            ],
+            "Name": [
+                ""
+            ],
+            "Measurement": [
+                ""
+            ],
+            "Add Nutrition Element": [
+                ""
+            ],
+            "Daily Value Disclaimer": [
+                ""
+            ],
+            "Daily Value Disclaimer text here...": [
+                ""
+            ],
+            "Add the default daily value disclaimer for the nutrition facts chart.": [
+                ""
+            ],
+            "Display Nutrition Facts in Standard mode.": [
+                ""
+            ],
+            "By default, the nutrition chart is displayed in primary color. Enable this option to switch to\tstandard color mode.": [
+                ""
+            ],
+            "Display Nutrition with 0 values": [
+                ""
+            ],
+            "Enable this option to display the nutrition with 0 value. If the nutrition field is blank, it will not show that nutrition.": [
+                ""
+            ],
+            "Disable Percentage Values": [
+                ""
+            ],
+            "Enable this option to disable the percentage values in the nutrition table.": [
+                ""
+            ],
+            "Eg: Vitamin B1": [
+                ""
+            ],
+            "%": [
+                ""
+            ],
+            "Are you sure to delete the custom nutrition element?": [
+                ""
+            ],
+            "Permalinks": [
+                ""
+            ],
+            "Recipe Base": [
+                ""
+            ],
+            "Enter custom URL structure for your Recipe Base. Default, recipe.": [
+                ""
+            ],
+            "Course Base": [
+                ""
+            ],
+            "Enter custom URL structure for your Recipe Course Base. Default, recipe-course.": [
+                ""
+            ],
+            "Cuisine Base": [
+                ""
+            ],
+            "Enter custom URL structure for your Recipe Cuisine Base. Default, recipe-cuisine.": [
+                ""
+            ],
+            "Cooking Method Base": [
+                ""
+            ],
+            "Enter custom URL structure for your Recipe Cooking Method Base. Default, recipe-cooking-method.": [
+                ""
+            ],
+            "Key Base": [
+                ""
+            ],
+            "Enter custom URL structure for your Recipe Key Base. Default, recipe-key.": [
+                ""
+            ],
+            "Tag Base": [
+                ""
+            ],
+            "Enter custom URL structure for your Recipe Tag Base. Default, recipe-tag.": [
+                ""
+            ],
+            "Badge Base": [
+                ""
+            ],
+            "Enter custom URL structure for your Recipe Badge Base. Default, recipe-badge.": [
+                ""
+            ],
+            "Dietary Base": [
+                ""
+            ],
+            "Enter custom URL structure for your Recipe Dietary Base. Default, recipe-dietary.": [
+                ""
+            ],
+            "Same Tab": [
+                ""
+            ],
+            "New Tab": [
+                ""
+            ],
+            "Print Settings": [
+                ""
+            ],
+            "Print Recipe Button": [
+                ""
+            ],
+            "Enable this option to allow readers to print the recipes.": [
+                ""
+            ],
+            "Print Recipe Button Text": [
+                ""
+            ],
+            "Enter Recipe print button text": [
+                ""
+            ],
+            "This is the text that will be displayed on Print Recipe Button.": [
+                ""
+            ],
+            "Preview Style": [
+                ""
+            ],
+            "Select the default preview style for the print option.": [
+                ""
+            ],
+            "Print Options": [
+                ""
+            ],
+            "Allow Users To Customize": [
+                ""
+            ],
+            "Enable this option if you want your readers to enable\/disable information in the print template.": [
+                ""
+            ],
+            "Default Print Options": [
+                ""
+            ],
+            "Select the default Print Option settings.": [
+                ""
+            ],
+            "Embed Recipe Link": [
+                ""
+            ],
+            "This will add the recipe URL in the print template.": [
+                ""
+            ],
+            "Recipe Link Label": [
+                ""
+            ],
+            "Enter recipe link label": [
+                ""
+            ],
+            "Enter the recipe URL to display in the print template.": [
+                ""
+            ],
+            "Display Social Sharing Info": [
+                ""
+            ],
+            "This option will embed the social sharing information. Only works, if you have configured the Social Sharing Settings.": [
+                ""
+            ],
+            "Embed Author Information": [
+                ""
+            ],
+            "This option will add a short information about you. Please make sure that you have configured Author Settings.": [
+                ""
+            ],
+            "Thank You Message": [
+                ""
+            ],
+            "Enter Thankyou Message here..": [
+                ""
+            ],
+            "The Thank You Message will be added at the end of your print template.": [
+                ""
+            ],
+            "Upload Your Logo": [
+                ""
+            ],
+            "Upload your logo to display in the print template. Leave it blank, if you don't want to display in the template.": [
+                ""
+            ],
+            "Choose Image": [
+                ""
+            ],
+            "Add\/replace Image": [
+                ""
+            ],
+            "List View": [
+                ""
+            ],
+            "Grid View": [
+                ""
+            ],
+            "Numeric": [
+                ""
+            ],
+            "Infinite": [
+                ""
+            ],
+            "Recipe Archive": [
+                ""
+            ],
+            "Enable Archive Header": [
+                ""
+            ],
+            "Enable this option to display header on archive pages. Disable this option if your theme already contains headers.": [
+                ""
+            ],
+            "Default Archive Layout": [
+                ""
+            ],
+            "Select the default archive view for recipe listings.": [
+                ""
+            ],
+            "Pagination Style": [
+                ""
+            ],
+            "Select the pagination style for recipe listings.": [
+                ""
+            ],
+            "Recipe Archive Title": [
+                ""
+            ],
+            "Enter recipe archive title text": [
+                ""
+            ],
+            "This is the text that will be displayed on Recipe Archive Title.": [
+                ""
+            ],
+            "Archive Description": [
+                ""
+            ],
+            "Recipe Archive Description here...": [
+                ""
+            ],
+            "Enter Recipe Archive description.": [
+                ""
+            ],
+            "Recipe Taxonomy Subtitle": [
+                ""
+            ],
+            "Enter title for the terms box in taxonomy archive page templates.": [
+                ""
+            ],
+            "This is the default label on recipe archive page templates such as recipe keys, courses, cooking methods etc.": [
+                ""
+            ],
+            "Recipe Details": [
+                ""
+            ],
+            "Enable Recipe Details Header": [
+                ""
+            ],
+            "Enable this option to display recipe title <H1> and metas in recipe single page.": [
+                ""
+            ],
+            "Enable Recipe Featured Image": [
+                ""
+            ],
+            "Enable this option to display recipe featured image, before recipe card, in recipe single page.": [
+                ""
+            ],
+            "Ingredient line format": [
+                ""
+            ],
+            "Enter recipe ingredient format string": [
+                ""
+            ],
+            "Enter recipe string text format for ingredient on recipe single page. Available Tags: {qty} : Quantity, {unit} : Ingredient unit, {ingredient} : Ingredient name, {notes} : Ingredient notes.": [
+                ""
+            ],
+            "Adjustable Servings": [
+                ""
+            ],
+            "You can quickly manage servings tools (site-wide) using these settings below.": [
+                ""
+            ],
+            "Show Adjustable Serving": [
+                ""
+            ],
+            "You can disable adjustable serving feature at recipe detail using this checkbox.": [
+                ""
+            ],
+            "Adjustable Serving Type": [
+                ""
+            ],
+            "Increment Based": [
+                ""
+            ],
+            "Scale Based": [
+                ""
+            ],
+            "When increment based it will increase by 1 and When scaled based, it will be multiplied by the scale like 1\/2x, 1x 2x 3x.": [
+                ""
+            ],
+            "Use Fraction": [
+                ""
+            ],
+            "When enabled, the decimal values will be displayed as fraction. Eg: 0.5 will be displayed as \u00bd.": [
+                ""
+            ],
+            "Global Recipe Toggles": [
+                ""
+            ],
+            "You can quickly hide or show different recipe elements (site-wide) with these checkboxes.": [
+                ""
+            ],
+            "Click on the pencil icon to edit the default text.": [
+                ""
+            ],
+            "Enter label": [
+                ""
+            ],
+            "Recipe Navigation": [
+                ""
+            ],
+            "Enable this option to display Previous\/Next navigation on your recipe posts.": [
+                ""
+            ],
+            "Show Last Updated Date": [
+                ""
+            ],
+            "Enable this option to display the updated date instead of the published date for your recipes.": [
+                ""
+            ],
+            "Display Powered By": [
+                ""
+            ],
+            "Enable this option to display the Powered by Delicious Recipes on your recipe posts.": [
+                ""
+            ],
+            "Affiliate Link": [
+                ""
+            ],
+            "Enter the URL for Affiliate Signup.": [
+                ""
+            ],
+            "Sign up for the affiliate program <a target=\"_blank\" href=%s>here<\/a>.": [
+                ""
+            ],
+            "Display Recipe Author": [
+                ""
+            ],
+            "Enable this option to display the recipe author below the post title.": [
+                ""
+            ],
+            "Display Recipe Published Date": [
+                ""
+            ],
+            "Enable this option to display the recipe published date.": [
+                ""
+            ],
+            "Display Comments": [
+                ""
+            ],
+            "Enable this option to display the comment section for your recipe posts.": [
+                ""
+            ],
+            "Single Recipe Image Crop": [
+                ""
+            ],
+            "Enable this option to auto crop featured image in recipe single.": [
+                ""
+            ],
+            "Recipe Archive Image Crop": [
+                ""
+            ],
+            "Enable this option to auto crop featured image in recipe home, archive and search pages.": [
+                ""
+            ],
+            "Enable Pinit Button": [
+                ""
+            ],
+            "Enable this option to display Pinit button in recipe, archive and search pages.": [
+                ""
+            ],
+            "Review Ratings": [
+                ""
+            ],
+            "Enable Comment Ratings": [
+                ""
+            ],
+            "Enable this option to allow your readers to rate your recipes.": [
+                ""
+            ],
+            "Default Rating Label": [
+                ""
+            ],
+            "Enter the label for the rating section.": [
+                ""
+            ],
+            "Enter the default rating label.": [
+                ""
+            ],
+            "The feature to rate the recipes without comments is available in Pro version.": [
+                ""
+            ],
+            "Search Settings": [
+                ""
+            ],
+            "Recipe Search Page": [
+                ""
+            ],
+            "Select a page..": [
+                ""
+            ],
+            "Select a page to display recipe search results. The [recipe_search] shortcode must be on this page.": [
+                ""
+            ],
+            "Show Search Bar": [
+                ""
+            ],
+            "Enable this option to display the search form on the search page.": [
+                ""
+            ],
+            "Search Logic": [
+                ""
+            ],
+            "Search AND logic.\u0004AND": [
+                ""
+            ],
+            "Search OR logic.\u0004OR": [
+                ""
+            ],
+            "Choose an option for Search result logic.": [
+                ""
+            ],
+            "Search Filter Fields": [
+                ""
+            ],
+            "Select the fields that you want to display in the search filters.": [
+                ""
+            ],
+            "Default Filter Labels": [
+                ""
+            ],
+            "Add the default label text for the search filters.": [
+                ""
+            ],
+            "Enter seatch filter label": [
+                ""
+            ],
+            "Social Sharing": [
+                ""
+            ],
+            "Enable Social Share Options": [
+                ""
+            ],
+            "Enable this option to allow Social Sharing.": [
+                ""
+            ],
+            "Social Share Title": [
+                ""
+            ],
+            "Enter the social share title": [
+                ""
+            ],
+            "Enter the title text to show on the recipe social share section.": [
+                ""
+            ],
+            "Enter text for social share..": [
+                ""
+            ],
+            "Enter the content for the social share. The content section will be displayed on the recipe single page.": [
+                ""
+            ],
+            "Recipe global settings saved successfully !!": [
+                ""
+            ],
+            "Save Changes": [
+                ""
+            ],
+            "General Settings": [
+                ""
+            ],
+            "User Dashboard": [
+                ""
+            ],
+            "Recipe Submission": [
+                ""
+            ],
+            "Additional Features": [
+                ""
+            ],
+            "User Dashboard Settings": [
+                ""
+            ],
+            "Recipe Dashboard Page": [
+                ""
+            ],
+            "Select a page to display recipe dashboard. The [dr_user_dashboard] shortcode must be on this page.": [
+                ""
+            ],
+            "User Registration": [
+                ""
+            ],
+            "Enable this option to allow user registration on the 'Recipe Dashboard' page.": [
+                ""
+            ],
+            "Generate Username": [
+                ""
+            ],
+            "Enable this option to allow automatic generation of username from user email.": [
+                ""
+            ],
+            "Generate Password": [
+                ""
+            ],
+            "Enable this option to allow automatic generation of user password.": [
+                ""
+            ],
+            "Terms and Conditions": [
+                ""
+            ],
+            "Enable this option to require terms and conditions in Registration form.": [
+                ""
+            ],
+            "Terms and Conditions Message": [
+                ""
+            ],
+            "Enter Terms and Conditions here..": [
+                ""
+            ],
+            "Upload Your Login Form Photo": [
+                ""
+            ],
+            "Upload your photo to display in the Login Form. Leave it blank, if you want to display the default image.": [
+                ""
+            ],
+            "Upload Your Registration Form Photo": [
+                ""
+            ],
+            "Upload your photo to display in the Registration Form. Leave it blank, if you want to display the default image.": [
+                ""
+            ],
+            "reCaptcha Settings": [
+                ""
+            ],
+            "Enable reCaptcha on User registration": [
+                ""
+            ],
+            "Enable this option to add reCAPTCHA verification on Resistration and Password Reset form.": [
+                ""
+            ],
+            "reCAPTCHA Version": [
+                ""
+            ],
+            "Select your reCAPTCHA version. Default is V3.": [
+                ""
+            ],
+            "Site Key": [
+                ""
+            ],
+            "Google reCAPTCHA": [
+                ""
+            ],
+            "Add Google reCAPTCHA site key here for User Registration form.": [
+                ""
+            ],
+            "Secret Key": [
+                ""
+            ],
+            "Add Google reCAPTCHA secret key here for User Registration form.": [
+                ""
+            ],
+            "The feature to allow your readers to submit their recipes is available in Pro version.": [
+                ""
+            ],
+            "This feature is only available in the Pro version.": [
+                ""
+            ],
+            "Global Settings": [
+                ""
+            ]
+        }
+    }
+}

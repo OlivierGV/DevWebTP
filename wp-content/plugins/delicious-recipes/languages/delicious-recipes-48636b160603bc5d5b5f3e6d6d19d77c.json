@@ -1,0 +1,60 @@
+{
+    "translation-revision-date": "YEAR-MO-DA HO:MI+ZONE",
+    "generator": "WP-CLI\/2.7.1",
+    "source": "assets\/blocks\/recipe-card-dynamic\/components\/VideoUpload.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "en",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "Recipe Card Video": [
+                ""
+            ],
+            "Note: Many browsers can only autoplay the videos with sound off, so you'll need to enable muted attribute to the video too.": [
+                ""
+            ],
+            "Recipe Card Video Settings": [
+                ""
+            ],
+            "Edit URL": [
+                ""
+            ],
+            "Apply": [
+                ""
+            ],
+            "Remove Recipe Video": [
+                ""
+            ],
+            "Replace Video": [
+                ""
+            ],
+            "Autoplay": [
+                ""
+            ],
+            "Loop": [
+                ""
+            ],
+            "Muted": [
+                ""
+            ],
+            "Playback Controls": [
+                ""
+            ],
+            "Video Poster": [
+                ""
+            ],
+            "Replace Poster": [
+                ""
+            ],
+            "Select Poster Image": [
+                ""
+            ],
+            "Remove Poster Image": [
+                ""
+            ]
+        }
+    }
+}

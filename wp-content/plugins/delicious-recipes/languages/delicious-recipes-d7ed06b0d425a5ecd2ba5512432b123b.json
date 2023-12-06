@@ -1,0 +1,57 @@
+{
+    "translation-revision-date": "YEAR-MO-DA HO:MI+ZONE",
+    "generator": "WP-CLI\/2.7.1",
+    "source": "assets\/blocks\/recipe-by-tax\/BlockInspectorControls.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "en",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "Recipe Keys": [
+                ""
+            ],
+            "Courses": [
+                ""
+            ],
+            "Cuisines": [
+                ""
+            ],
+            "Cooking Methods": [
+                ""
+            ],
+            "Tags": [
+                ""
+            ],
+            "Title": [
+                ""
+            ],
+            "List View": [
+                ""
+            ],
+            "Grid View": [
+                ""
+            ],
+            "Heading": [
+                ""
+            ],
+            "Layout": [
+                ""
+            ],
+            "Recipes by Taxonomy Settings": [
+                ""
+            ],
+            "Taxonomy": [
+                ""
+            ],
+            "Term": [
+                ""
+            ],
+            "No. of recipe to show": [
+                ""
+            ]
+        }
+    }
+}

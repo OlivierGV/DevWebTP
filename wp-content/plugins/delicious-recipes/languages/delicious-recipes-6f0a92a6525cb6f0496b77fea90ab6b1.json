@@ -1,0 +1,30 @@
+{
+    "translation-revision-date": "YEAR-MO-DA HO:MI+ZONE",
+    "generator": "WP-CLI\/2.7.1",
+    "source": "assets\/blocks\/recipe-card-dynamic\/components\/Ingredient.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "en",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "New ingredient added": [
+                ""
+            ],
+            "Ingredient removed": [
+                ""
+            ],
+            "Add ingredient": [
+                ""
+            ],
+            "Add ingredient section": [
+                ""
+            ],
+            "Write Ingredients title": [
+                ""
+            ]
+        }
+    }
+}

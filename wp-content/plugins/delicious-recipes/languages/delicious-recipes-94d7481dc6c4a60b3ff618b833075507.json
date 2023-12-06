@@ -1,0 +1,108 @@
+{
+    "translation-revision-date": "YEAR-MO-DA HO:MI+ZONE",
+    "generator": "WP-CLI\/2.7.1",
+    "source": "assets\/blocks\/recipe-card-dynamic\/components\/RecipeCard.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "en",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "Author:": [
+                ""
+            ],
+            "Keywords:": [
+                ""
+            ],
+            "Courses:": [
+                ""
+            ],
+            "Cuisine:": [
+                ""
+            ],
+            "Cooking Method:": [
+                ""
+            ],
+            "Gluten Free": [
+                ""
+            ],
+            "Dairy Free": [
+                ""
+            ],
+            "Low Carb": [
+                ""
+            ],
+            "Vegetarian": [
+                ""
+            ],
+            "Organic": [
+                ""
+            ],
+            "Nut Free": [
+                ""
+            ],
+            "Egg Free": [
+                ""
+            ],
+            "High Protein": [
+                ""
+            ],
+            "Keto": [
+                ""
+            ],
+            "Vegan": [
+                ""
+            ],
+            "Recipe Keys:": [
+                ""
+            ],
+            "Print Recipe": [
+                ""
+            ],
+            "Loading...": [
+                ""
+            ],
+            "Not added": [
+                ""
+            ],
+            "Recipe Image": [
+                ""
+            ],
+            "Select an image file from your library.": [
+                ""
+            ],
+            "Media Library": [
+                ""
+            ],
+            "Enter the title of your recipe.": [
+                ""
+            ],
+            "Write Summary title": [
+                ""
+            ],
+            "Enter a short recipe description.": [
+                ""
+            ],
+            "Write Recipe Video title": [
+                ""
+            ],
+            "You can add a video here from Recipe Card Video Settings in the right sidebar": [
+                ""
+            ],
+            "Recipe Card Video": [
+                ""
+            ],
+            "Write Notes title": [
+                ""
+            ],
+            "Enter Note text for your recipe.": [
+                ""
+            ],
+            "Press Enter to add new note.": [
+                ""
+            ]
+        }
+    }
+}

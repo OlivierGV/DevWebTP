@@ -1,0 +1,69 @@
+{
+    "translation-revision-date": "YEAR-MO-DA HO:MI+ZONE",
+    "generator": "WP-CLI\/2.7.1",
+    "source": "assets\/blocks\/common\/RecipeCard.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "en",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "Description": [
+                ""
+            ],
+            "Ingredients": [
+                ""
+            ],
+            "Instructions": [
+                ""
+            ],
+            "Author:": [
+                ""
+            ],
+            "Courses:": [
+                ""
+            ],
+            "Cuisine:": [
+                ""
+            ],
+            "Cooking Method:": [
+                ""
+            ],
+            "Recipe Keys:": [
+                ""
+            ],
+            "Print Recipe": [
+                ""
+            ],
+            "Prep Time": [
+                ""
+            ],
+            "Cook Time": [
+                ""
+            ],
+            "Rest Time": [
+                ""
+            ],
+            "Total Time": [
+                ""
+            ],
+            "Notes": [
+                ""
+            ],
+            "Difficulty:": [
+                ""
+            ],
+            "Servings:": [
+                ""
+            ],
+            "Calories:": [
+                ""
+            ],
+            "Best Season:": [
+                ""
+            ]
+        }
+    }
+}

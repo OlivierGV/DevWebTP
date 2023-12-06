@@ -1,0 +1,57 @@
+{
+    "translation-revision-date": "YEAR-MO-DA HO:MI+ZONE",
+    "generator": "WP-CLI\/2.7.1",
+    "source": "assets\/blocks\/recipe-card\/block.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "en",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "Recipe Card": [
+                ""
+            ],
+            "Title": [
+                ""
+            ],
+            "Loading...": [
+                ""
+            ],
+            "Default Card Layout": [
+                ""
+            ],
+            "Recipe Details": [
+                ""
+            ],
+            "delicious": [
+                ""
+            ],
+            "recipes": [
+                ""
+            ],
+            "Content of the block": [
+                ""
+            ],
+            "Heading": [
+                ""
+            ],
+            "Recipe Card Settings": [
+                ""
+            ],
+            "Recipe": [
+                ""
+            ],
+            "Please Select the recipe for recipe card.": [
+                ""
+            ],
+            "A block to show recipe card.": [
+                ""
+            ],
+            "recipecard": [
+                ""
+            ]
+        }
+    }
+}

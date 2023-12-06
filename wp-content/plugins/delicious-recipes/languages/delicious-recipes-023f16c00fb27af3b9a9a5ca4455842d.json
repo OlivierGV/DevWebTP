@@ -1,0 +1,30 @@
+{
+    "translation-revision-date": "YEAR-MO-DA HO:MI+ZONE",
+    "generator": "WP-CLI\/2.7.1",
+    "source": "assets\/blocks\/instructions\/block.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "en",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "Recipe Instructions": [
+                ""
+            ],
+            "A block to list the recipe instructions.": [
+                ""
+            ],
+            "directions": [
+                ""
+            ],
+            "instructions": [
+                ""
+            ],
+            "recipe": [
+                ""
+            ]
+        }
+    }
+}

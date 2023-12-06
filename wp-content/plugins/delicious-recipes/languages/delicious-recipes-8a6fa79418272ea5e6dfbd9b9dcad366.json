@@ -1,0 +1,51 @@
+{
+    "translation-revision-date": "YEAR-MO-DA HO:MI+ZONE",
+    "generator": "WP-CLI\/2.7.1",
+    "source": "assets\/blocks\/recipe-buttons\/RecipeButtons.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "en",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "Print Recipe": [
+                ""
+            ],
+            "Jump to Recipe": [
+                ""
+            ],
+            "Jump to Video": [
+                ""
+            ],
+            "Recipe Buttons Settings": [
+                ""
+            ],
+            "Display Jump to Recipe": [
+                ""
+            ],
+            "Jump to Recipes Label": [
+                ""
+            ],
+            "Jump to Recipes": [
+                ""
+            ],
+            "Display Jump to Video": [
+                ""
+            ],
+            "Jump to Video Label": [
+                ""
+            ],
+            "Print Button": [
+                ""
+            ],
+            "Display Print Button": [
+                ""
+            ],
+            "Print Recipe Label": [
+                ""
+            ]
+        }
+    }
+}

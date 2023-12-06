@@ -1,0 +1,168 @@
+{
+    "translation-revision-date": "YEAR-MO-DA HO:MI+ZONE",
+    "generator": "WP-CLI\/2.7.1",
+    "source": "assets\/build\/onboard.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "en",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "Delicious Recipes": [
+                ""
+            ],
+            "Recipe Colors": [
+                ""
+            ],
+            "These color options controls the look and feel of your recipe card.": [
+                ""
+            ],
+            "Primary Color": [
+                ""
+            ],
+            "Secondary Color": [
+                ""
+            ],
+            "Facebook": [
+                ""
+            ],
+            "Twitter": [
+                ""
+            ],
+            "Linkedin": [
+                ""
+            ],
+            "Display Recipes On Homepage": [
+                ""
+            ],
+            "Enable this option to display the recipes on the homepage.": [
+                ""
+            ],
+            "Recipe Base": [
+                ""
+            ],
+            "Enter custom URL structure for your Recipe Base. Default, recipe.": [
+                ""
+            ],
+            "Course Base": [
+                ""
+            ],
+            "Cuisine Base": [
+                ""
+            ],
+            "Enter custom URL structure for your Recipe Cuisine Base. Default, recipe-cuisine.": [
+                ""
+            ],
+            "Cooking Method Base": [
+                ""
+            ],
+            "Enter custom URL structure for your Recipe Cooking Method Base. Default, recipe-cooking-method.": [
+                ""
+            ],
+            "Key Base": [
+                ""
+            ],
+            "Enter custom URL structure for your Recipe Key Base. Default, recipe-key.": [
+                ""
+            ],
+            "Tag Base": [
+                ""
+            ],
+            "Enter custom URL structure for your Recipe Tag Base. Default, recipe-tag.": [
+                ""
+            ],
+            "Badge Base": [
+                ""
+            ],
+            "Recipe Search Page": [
+                ""
+            ],
+            "Select a page..": [
+                ""
+            ],
+            "Recipe global settings saved successfully !!": [
+                ""
+            ],
+            "Congratulations!": [
+                ""
+            ],
+            "You have successfully finished setting up the plugin. You can now enjoy the incredible features and start creating your delicious recipes.": [
+                ""
+            ],
+            "Spread The Word": [
+                ""
+            ],
+            "Create a Recipe": [
+                ""
+            ],
+            "Go to Settings": [
+                ""
+            ],
+            "Thank you for using": [
+                ""
+            ],
+            "Let\u2019s get started to set-up a few settings that will help you configure your recipe blog and quickly get started.": [
+                ""
+            ],
+            "<strong>Delicious Recipes<\/strong> plugin uses <b>WordPress Core REST API<\/b> interface for creating and managing recipes and does not support the plain permalink structure. Please <a target=\"_blank\" href=%s>change your permalinks settings<\/a> to other structure to use Delicious Recipes plugin. We recommend to use \"Post name\".": [
+                ""
+            ],
+            "I've changed the permalink structure in permalinks settings.": [
+                ""
+            ],
+            "Proceed To Set Up": [
+                ""
+            ],
+            "Skip to Dashboard": [
+                ""
+            ],
+            "3. Additional Settings": [
+                ""
+            ],
+            "Additional Settings to optimize your experience with Delicious Recipes plugin": [
+                ""
+            ],
+            "Select a page to display recipe search results.": [
+                ""
+            ],
+            "1. Appearance Settings": [
+                ""
+            ],
+            "2. Permalinks Settings": [
+                ""
+            ],
+            "If you are using SSL in your website, please ensure your website link in the backend %1$s matches precisely with Site URL settings in %2$s Dashboard > Settings > General %3$s.": [
+                ""
+            ],
+            "You can also change recipe page slugs and permalinks as follows.": [
+                ""
+            ],
+            "Enter custom URL structure for your Recipe Course Base. Default recipe-course.": [
+                ""
+            ],
+            "Enter custom URL structure for your Recipe badge Base. Default, recipe-badge.": [
+                ""
+            ],
+            "Finish": [
+                ""
+            ],
+            "Next Step": [
+                ""
+            ],
+            "Step": [
+                ""
+            ],
+            "Appearance Settings": [
+                ""
+            ],
+            "Permalinks Settings": [
+                ""
+            ],
+            "Additional Settings": [
+                ""
+            ]
+        }
+    }
+}

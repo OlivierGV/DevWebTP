@@ -1,0 +1,30 @@
+{
+    "translation-revision-date": "YEAR-MO-DA HO:MI+ZONE",
+    "generator": "WP-CLI\/2.7.1",
+    "source": "assets\/blocks\/recipe-buttons\/block.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "en",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "Recipe Buttons": [
+                ""
+            ],
+            "A Jump to Recipe, Jump to Video and Print Recipe button.": [
+                ""
+            ],
+            "recipe card": [
+                ""
+            ],
+            "block recipe card": [
+                ""
+            ],
+            "recipes button": [
+                ""
+            ]
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "translation-revision-date": "YEAR-MO-DA HO:MI+ZONE",
+    "generator": "WP-CLI\/2.7.1",
+    "source": "assets\/blocks\/recipe-card-dynamic\/block.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "en",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "Main": [
+                ""
+            ],
+            "Italian": [
+                ""
+            ],
+            "Medium": [
+                ""
+            ],
+            "block recipe card": [
+                ""
+            ],
+            "Dynamic Recipe Card": [
+                ""
+            ],
+            "Display a Recipe Card box with recipe metadata.": [
+                ""
+            ],
+            "dynamic recipe card": [
+                ""
+            ],
+            "delicious recipes": [
+                ""
+            ],
+            "Your recipe title goes here": [
+                ""
+            ],
+            "Frying": [
+                ""
+            ]
+        }
+    }
+}

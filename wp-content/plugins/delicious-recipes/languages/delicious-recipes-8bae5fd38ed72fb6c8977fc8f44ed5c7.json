@@ -1,0 +1,30 @@
+{
+    "translation-revision-date": "YEAR-MO-DA HO:MI+ZONE",
+    "generator": "WP-CLI\/2.7.1",
+    "source": "assets\/blocks\/ingredients\/block.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "en",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "delicious": [
+                ""
+            ],
+            "recipes": [
+                ""
+            ],
+            "Recipe Ingredients": [
+                ""
+            ],
+            "A block to list the recipe ingredients.": [
+                ""
+            ],
+            "ingredients": [
+                ""
+            ]
+        }
+    }
+}

@@ -1,0 +1,522 @@
+{
+    "translation-revision-date": "YEAR-MO-DA HO:MI+ZONE",
+    "generator": "WP-CLI\/2.7.1",
+    "source": "assets\/build\/recipe.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "en",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "Add Image": [
+                ""
+            ],
+            "Best Season": [
+                ""
+            ],
+            "Servings": [
+                ""
+            ],
+            "Calories": [
+                ""
+            ],
+            "Nutrition Facts": [
+                ""
+            ],
+            "Amount Per Serving": [
+                ""
+            ],
+            "% Daily Value *": [
+                ""
+            ],
+            "Ingredients": [
+                ""
+            ],
+            "Instructions": [
+                ""
+            ],
+            "Beginner": [
+                ""
+            ],
+            "Intermediate": [
+                ""
+            ],
+            "Advanced": [
+                ""
+            ],
+            "Fall": [
+                ""
+            ],
+            "Winter": [
+                ""
+            ],
+            "Summer": [
+                ""
+            ],
+            "Spring": [
+                ""
+            ],
+            "Suitable throughout the year": [
+                ""
+            ],
+            "Settings": [
+                ""
+            ],
+            "Upgrade to Pro": [
+                ""
+            ],
+            "Rest Time": [
+                ""
+            ],
+            "Cooking Temp": [
+                ""
+            ],
+            "Estimated Cost": [
+                ""
+            ],
+            "Nutrition": [
+                ""
+            ],
+            "Notes": [
+                ""
+            ],
+            "Drizzle": [
+                ""
+            ],
+            "Click to initialize RichEditor": [
+                ""
+            ],
+            "Replace": [
+                ""
+            ],
+            "Delete": [
+                ""
+            ],
+            "Choose Images": [
+                ""
+            ],
+            "Unit": [
+                ""
+            ],
+            "Save Changes": [
+                ""
+            ],
+            "The feature to promote equipments with affiliate link is available in Pro version.": [
+                ""
+            ],
+            "FAQs": [
+                ""
+            ],
+            "Section Title": [
+                ""
+            ],
+            "Enter FAQs section title": [
+                ""
+            ],
+            "Enter title for the FAQ section.": [
+                ""
+            ],
+            "You can add the FAQ sections and related answers for the recipe.": [
+                ""
+            ],
+            "Enter the FAQ title.": [
+                ""
+            ],
+            "FAQ Answer": [
+                ""
+            ],
+            "Enter FAQ answer here.": [
+                ""
+            ],
+            "Sure to delete the FAQ? This action cannot be reverted.": [
+                ""
+            ],
+            "Add FAQ": [
+                ""
+            ],
+            "No URL supplied. Please enter valid YouTube or Vimeo URL.": [
+                ""
+            ],
+            "invalid URL supplied.": [
+                ""
+            ],
+            "Enable Video Gallery": [
+                ""
+            ],
+            "Add YouTube or Vimeo video URLs": [
+                ""
+            ],
+            "Enter YouTube\/Vimeo video URL.": [
+                ""
+            ],
+            "Add Video": [
+                ""
+            ],
+            "Gallery": [
+                ""
+            ],
+            "Enable Image Gallery": [
+                ""
+            ],
+            "Add New Image": [
+                ""
+            ],
+            "Max. file size %s Supports: JPG, PNG, WEBP": [
+                ""
+            ],
+            " hour(s) ": [
+                ""
+            ],
+            " minute(s).": [
+                ""
+            ],
+            "Cooking temperature Celsius unit.\u0004C": [
+                ""
+            ],
+            "Cooking temperature Fahrenheit unit.\u0004F": [
+                ""
+            ],
+            "Minutes": [
+                ""
+            ],
+            "Hours": [
+                ""
+            ],
+            "Recipe Info": [
+                ""
+            ],
+            "Recipe Subtitle": [
+                ""
+            ],
+            "Enter text for recipe subtitle": [
+                ""
+            ],
+            "Enter the subtitle text for the recipe. The text will be displayed below recipe title.": [
+                ""
+            ],
+            "Recipe Description": [
+                ""
+            ],
+            "Enter text for recipe description": [
+                ""
+            ],
+            "Enter the description text for the recipe. The text will be displayed in recipe card section.": [
+                ""
+            ],
+            "Recipe Keywords": [
+                ""
+            ],
+            "Enter comma separated recipe keywords. The keywords will be used in recipe card and for SEO Schema.": [
+                ""
+            ],
+            "Difficulty Level": [
+                ""
+            ],
+            "Select Difficulty Level": [
+                ""
+            ],
+            "Select the difficulty level for this recipe.": [
+                ""
+            ],
+            "Preparation Time": [
+                ""
+            ],
+            "Enter the preperation time ( number ) for the recipe and choose desired unit.": [
+                ""
+            ],
+            "Cooking Time": [
+                ""
+            ],
+            "Enter the cooking time ( number ) for the recipe and choose desired unit.": [
+                ""
+            ],
+            "Enter the rest time ( number ) for the recipe and choose desired unit.": [
+                ""
+            ],
+            "Total Duration:": [
+                ""
+            ],
+            "Eg. 120 kcal": [
+                ""
+            ],
+            "Enter number of calories for this recipe.": [
+                ""
+            ],
+            "Select best season for the recipe": [
+                ""
+            ],
+            "Select the available seasons for the recipe.": [
+                ""
+            ],
+            "Enter the cooking temperature ( number ) for the recipe and choose desired unit.": [
+                ""
+            ],
+            "Enter the estimated cooking cost ( number ) for the recipe and currency.": [
+                ""
+            ],
+            "Drizzle unit abbreviation\u0004drizzle": [
+                ""
+            ],
+            "Clove": [
+                ""
+            ],
+            "Clove unit abbreviation\u0004clove": [
+                ""
+            ],
+            "Jar": [
+                ""
+            ],
+            "Jar unit abbreviation\u0004jar": [
+                ""
+            ],
+            "Can": [
+                ""
+            ],
+            "Can unit abbreviation\u0004can": [
+                ""
+            ],
+            "Ingredients section repeater content. Enter ingredients in the section below.": [
+                ""
+            ],
+            "Add Ingredient Section": [
+                ""
+            ],
+            "Sure to delete the ingredient section? This action cannot be reverted.": [
+                ""
+            ],
+            "Enter the title for recipe ingredients section.": [
+                ""
+            ],
+            "Quantity": [
+                ""
+            ],
+            "Ingredient": [
+                ""
+            ],
+            "Add Ingredient": [
+                ""
+            ],
+            "Grams": [
+                ""
+            ],
+            "Grams unit abbreviation\u0004g": [
+                ""
+            ],
+            "Kilograms": [
+                ""
+            ],
+            "Kilograms unit abbreviation\u0004kg": [
+                ""
+            ],
+            "Milligrams": [
+                ""
+            ],
+            "Milligrams unit abbreviation\u0004mg": [
+                ""
+            ],
+            "Ounces": [
+                ""
+            ],
+            "Ounces unit abbreviation\u0004oz": [
+                ""
+            ],
+            "Fluid ounces": [
+                ""
+            ],
+            "Fluid unit abbreviation\u0004floz": [
+                ""
+            ],
+            "Cups": [
+                ""
+            ],
+            "Cups unit abbreviation\u0004cup": [
+                ""
+            ],
+            "Teaspoons": [
+                ""
+            ],
+            "Teaspoons unit abbreviation\u0004tsp": [
+                ""
+            ],
+            "Tablespoons": [
+                ""
+            ],
+            "Tablespoons unit abbreviation\u0004tbsp": [
+                ""
+            ],
+            "Milliliters": [
+                ""
+            ],
+            "Milliliters unit abbreviation\u0004ml": [
+                ""
+            ],
+            "Liters": [
+                ""
+            ],
+            "Liters unit abbreviation\u0004l": [
+                ""
+            ],
+            "Sticks": [
+                ""
+            ],
+            "Sticks unit abbreviation\u0004stick": [
+                ""
+            ],
+            "Pounds": [
+                ""
+            ],
+            "Pounds unit abbreviation\u0004lb": [
+                ""
+            ],
+            "Dashes": [
+                ""
+            ],
+            "Dashes unit abbreviation\u0004dash": [
+                ""
+            ],
+            "Drops": [
+                ""
+            ],
+            "Drops unit abbreviation\u0004drop": [
+                ""
+            ],
+            "Gallons": [
+                ""
+            ],
+            "Gallons unit abbreviation\u0004gal": [
+                ""
+            ],
+            "Pinches": [
+                ""
+            ],
+            "Pinches unit abbreviation\u0004pinch": [
+                ""
+            ],
+            "Pints": [
+                ""
+            ],
+            "Pints unit abbreviation\u0004pt": [
+                ""
+            ],
+            "Quarts": [
+                ""
+            ],
+            "Quarts unit abbreviation\u0004qt": [
+                ""
+            ],
+            "Enter Quantity": [
+                ""
+            ],
+            "Select a Unit": [
+                ""
+            ],
+            "Ingredient name": [
+                ""
+            ],
+            "Ingredient notes": [
+                ""
+            ],
+            "Sure to delete the ingredient?": [
+                ""
+            ],
+            "No. Of Servings": [
+                ""
+            ],
+            "Enter no. of servings value for this recipe.": [
+                ""
+            ],
+            "Enter the number of Servings for the recipe.": [
+                ""
+            ],
+            "Ingredient Title": [
+                ""
+            ],
+            "Ingredient section title": [
+                ""
+            ],
+            "Enter title for the Ingredient section.": [
+                ""
+            ],
+            "Enter instructions section title": [
+                ""
+            ],
+            "Enter title for the Instruction section.": [
+                ""
+            ],
+            "You can add the instructions sections and related contents for the recipe.": [
+                ""
+            ],
+            "Add Instruction Section": [
+                ""
+            ],
+            "Sure to delete the instruction section? This action cannot be reverted.": [
+                ""
+            ],
+            "Enter instructions section title here": [
+                ""
+            ],
+            "Supports: .JPG, .PNG , .WEBP images": [
+                ""
+            ],
+            "Instruction Title": [
+                ""
+            ],
+            "Enter the title of the instruction.": [
+                ""
+            ],
+            "Instruction": [
+                ""
+            ],
+            "Enter recipe instruction description here.": [
+                ""
+            ],
+            "Sure to delete the instruction? This action cannot be reverted.": [
+                ""
+            ],
+            "Add Notes": [
+                ""
+            ],
+            "Video URL (YouTube or Vimeo)": [
+                ""
+            ],
+            "Enter YouTube or Vimeo video URL.": [
+                ""
+            ],
+            "Enter recipe instruction notes": [
+                ""
+            ],
+            "Add Instruction": [
+                ""
+            ],
+            "Recipe Notes": [
+                ""
+            ],
+            "Enter text for recipe notes.": [
+                ""
+            ],
+            "Enter the notes for the recipe. The text will be displayed below recipe card section.": [
+                ""
+            ],
+            "* Percent Daily Values are based on a 2,000 calorie diet. Your daily value may be higher or lower depending on your calorie needs.": [
+                ""
+            ],
+            "Nutrition Information": [
+                ""
+            ],
+            "Enter nutrition details values for the recipe. A preview of nutrition chart will be shown according to the values.": [
+                ""
+            ],
+            "Recipe settings saved successfully !!": [
+                ""
+            ],
+            "Recipe settings has been changed. Please save the changes from Recipe Settings section before updating the recipe.": [
+                ""
+            ],
+            "Equipment": [
+                ""
+            ]
+        }
+    }
+}

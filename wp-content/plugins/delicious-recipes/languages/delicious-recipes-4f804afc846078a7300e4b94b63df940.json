@@ -1,0 +1,69 @@
+{
+    "translation-revision-date": "YEAR-MO-DA HO:MI+ZONE",
+    "generator": "WP-CLI\/2.7.1",
+    "source": "assets\/build\/whatsNew.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "en",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "Settings": [
+                ""
+            ],
+            "Upgrade to Pro": [
+                ""
+            ],
+            "Create a Recipe": [
+                ""
+            ],
+            "Thank you for using": [
+                ""
+            ],
+            "Delicious Recipes!": [
+                ""
+            ],
+            "With Delicious Recipes, you can create and share your recipes easily with your readers. If you haven\u2019t already, head over to the Settings page to configure and customize the plugin.": [
+                ""
+            ],
+            "Version: %s": [
+                ""
+            ],
+            "Released on %s": [
+                ""
+            ],
+            "New Feature": [
+                ""
+            ],
+            "Enhancement": [
+                ""
+            ],
+            "Fixes": [
+                ""
+            ],
+            "Check out the links and information below to see what\u2019s new.": [
+                ""
+            ],
+            "Quick Links": [
+                ""
+            ],
+            "Documentation": [
+                ""
+            ],
+            "Roadmap": [
+                ""
+            ],
+            "Translate": [
+                ""
+            ],
+            "What's new in Delicious Recipes?": [
+                ""
+            ],
+            "No changelog present at the moment.": [
+                ""
+            ]
+        }
+    }
+}
